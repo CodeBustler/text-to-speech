@@ -1,3 +1,5 @@
-# textToSpeech-
+# Text To Speech
+By using HTML, CSS & JS (With JS SpeechSynthesisUtterance() )
 
-[Edit in Codeflow ⚡️](https://stackblitz.com/~/github.com/CodeBustler/textToSpeech-)
+## Project Live 
+https://codebustler.github.io/text-to-speech/
